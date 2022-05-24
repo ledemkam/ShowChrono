@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShowChrono/static/css/main.84c046b0.css",
+    "main.js": "/ShowChrono/static/js/main.49a85f95.js",
+    "static/media/pause.svg": "/ShowChrono/static/media/pause.f8c47a1a474cf2c8b2ed621b33a358d2.svg",
+    "static/media/play.svg": "/ShowChrono/static/media/play.b23df41aceae0e6db7d26131df3ffae9.svg",
+    "static/media/reset.svg": "/ShowChrono/static/media/reset.adefad1d9419146eb9edf570a89cf2c4.svg",
+    "index.html": "/ShowChrono/index.html",
+    "main.84c046b0.css.map": "/ShowChrono/static/css/main.84c046b0.css.map",
+    "main.49a85f95.js.map": "/ShowChrono/static/js/main.49a85f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c046b0.css",
+    "static/js/main.49a85f95.js"
+  ]
+}
